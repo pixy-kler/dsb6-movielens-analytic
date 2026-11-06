@@ -35,11 +35,11 @@ The dataset sample contains 1000 movies, 1000 ratings, 1000 tags, and 1000 links
 
 Top-3 movies by weighted rating:
 
-| Rank | `movieId` | Weighted rating | Avg rating | # ratings |
-|------|-----------|-----------------|------------|-----------|
-| 1    | 260       | 4.61            | 5.0        | 3         |
-| 2    | 457       | 4.49            | 4.75       | 4         |
-| 3    | 919       | 4.49            | 5.0        | 2         |
+| Rank | `movie` | Weighted rating | Avg rating | # ratings |
+|------|---------|-----------------|------------|-----------|
+| 1    | Star Wars: Episode IV - A New Hope (1977)     | 4.61            | 5.0        | 3         |
+| 2    | Fugitive     | 4.49            | 4.75       | 4         |
+| 3    | Wizard of Oz    | 4.49            | 5.0        | 2         |
 
 Pipeline
 --------
