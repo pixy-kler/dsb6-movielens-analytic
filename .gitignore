@@ -1,0 +1,40 @@
+```gitignore
+# Data
+data/
+ml-latest-small/
+*.csv
+*.pkl
+*.joblib
+*.zip
+*.gz
+*.tar
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*.nbconvert.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# PyTest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Secrets
+.env
+secrets.json
+
+# OS
+.DS_Store
+Thumbs.db
